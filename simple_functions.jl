@@ -2,12 +2,6 @@ using Dash
 
 app=dash(external_stylesheets = ["https://codepen.io/chriddyp/pen/bWLwgP.css"]);
 
-
-"""
-    QuadraticEquation(a,b,c)
-
-TBW
-"""
 struct QuadraticSqrt
     x1::Integer
     x2::Integer
